@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShivExcelLogging" GeneratedClassName="Setting">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StartPos" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NamePos" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LogFolderIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WriteLogPos" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StationPLC" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="COMSylvac1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM22</Value>
+    </Setting>
+    <Setting Name="COMSylvac2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM19</Value>
+    </Setting>
+    <Setting Name="COMSylvac3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM20</Value>
+    </Setting>
+    <Setting Name="COMSylvac4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM21</Value>
+    </Setting>
+    <Setting Name="indexCamera" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
